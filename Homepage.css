@@ -1,0 +1,19 @@
+.container-fluid img{
+    height:100px;
+    width:100px;
+
+}
+/* .main-video source{
+    display:-ms-grid;
+} */
+.carousel-caption h2 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+.carousel-item p{
+    font-size: 50%;
+}
+.footer p{
+    font-size: large;
+    padding-left: 40px;;
+}
